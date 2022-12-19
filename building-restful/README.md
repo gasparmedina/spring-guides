@@ -26,4 +26,6 @@ External links
 
 - How to test json structure in spring boot
   - https://stackoverflow.com/questions/65520264/how-to-test-json-structure-in-spring-boot
+- Testing in Spring Boot
+  - https://www.baeldung.com/spring-boot-testing
   
